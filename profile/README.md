@@ -40,7 +40,6 @@
 </p>
 
 ---
-
 <h2 align="center" style="color: #2C2D72;">Core Technologies</h2>
 
 <p align="center">
@@ -53,7 +52,28 @@
 </p>
 
 <p align="center">
-  Our primary focus is on Python, C++, C#, and JavaScript, but we are flexible and open to adopting other languages and frameworks to meet the needs of our projects.
+  Our primary focus is on Python, C++, C#, and JavaScript, delivering robust solutions for a wide range of applications.
+</p>
+
+<h3 align="center" style="color: #2C2D72;">Additional Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,kotlin,java,lua,typescript,rust,html,css" alt="Additional Technologies" />
+  <br>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
+
+<p align="center">
+  We also develop projects using Go, PHP, Kotlin, Java, Lua, Luau, TypeScript, and Rust for specialized applications, as well as HTML, CSS, JavaScript, and TypeScript for web development. Our flexibility ensures we meet diverse project requirements.
 </p>
 
 ---
