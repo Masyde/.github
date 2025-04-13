@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Mission-Open%20Source-2C2D72?style=flat-square&logo=opensourceinitiative&logoColor=white">
   <img src="https://img.shields.io/badge/License-MIT-00FF7F?style=flat-square&logo=license&logoColor=white">
   <img src="https://img.shields.io/github/repos/masyde?label=Repositories&style=flat-square&color=2C2D72"> <br>
-  <img src="masyde-kofi.jpg">
+  <img src="masyde-kofi.png">
 </p>
 
 ---
