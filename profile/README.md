@@ -7,14 +7,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=2C2D72&size=20&center=true&vCenter=true&width=500&lines=Open-Source+Collaboration;Community-Driven+Innovation;Building+Your+Ideas;Empowering+Developers" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=2C2D72&size=20¢er=true&vCenter=true&width=500&lines=Open-Source+Collaboration;Community-Driven+Innovation;Building+Your+Ideas;Empowering+Developers" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mission-Open%20Source-2C2D72?style=flat-square&logo=opensourceinitiative&logoColor=white">
   <img src="https://img.shields.io/badge/License-MIT-00FF7F?style=flat-square&logo=license&logoColor=white">
-  <img src="https://img.shields.io/github/repos/masyde?label=Repositories&style=flat-square&color=2C2D72"> <br>
-  <img src="masyde-kofi.png">
+  <img src="https://img.shields.io/github/repos/masyde?label=Repositories&style=flat-square&color=2C2D72">
 </p>
 
 ---
@@ -22,7 +21,7 @@
 <h2 align="center" style="color: #2C2D72;">About Masyde</h2>
 
 <p align="center">
-  Masyde is an open-source organization committed to developing software projects inspired by community suggestions. We specialize in creating robust tools using <b>Python</b>, <b>C++</b>, and <b>C#</b>, with additional projects in <b>JavaScript</b> for web applications or other languages as required. All projects are hosted on <a href="https://github.com/masyde">github.com/masyde</a> and released under the <b>MIT License</b>.
+  Masyde is an open-source organization dedicated to developing software projects inspired by community suggestions. We specialize in creating robust tools using <b>Python</b>, <b>C++</b>, and <b>C#</b>, with additional projects in <b>JavaScript</b> for web applications or other languages as required. All projects are hosted on <a href="https://github.com/masyde">github.com/masyde</a> and released under the <b>MIT License</b>.
 </p>
 
 <p align="center">
@@ -67,7 +66,19 @@
 </p>
 
 <p align="center">
-  Explore our repositories on <a href="https://github.com/masyde">GitHub</a> to discover ongoing projects, contribute code, or report issues. Your participation helps shape the future of Masyde’s open-source ecosystem.
+  Explore our repositories on <a href="https://github.com/masyde">GitHub</a> to discover ongoing projects, contribute code, or report issues. Your participation helps shape the future of Masyde’s open-source ecosystem. See our <a href="https://github.com/masyde/masyde/blob/main/CONTRIBUTING.md">contribution guidelines</a> for more details.
+</p>
+
+---
+
+<h2 align="center" style="color: #2C2D72;">Support Us</h2>
+
+<p align="center">
+  Your support enables us to maintain and grow our open-source initiatives. Consider contributing through the following platforms:<br>
+  - <b>GitHub Sponsors:</b> <a href="https://github.com/sponsors/stfulua">stfulua</a>, <a href="https://github.com/sponsors/ProjectFydeDev">ProjectFydeDev</a><br>
+  - <b>Patreon:</b> <a href="https://patreon.com/Masyde">patreon.com/Masyde</a><br>
+  - <b>Ko-fi:</b> <a href="https://ko-fi.com/masyde">ko-fi.com/masyde</a><br>
+  - <b>PayPal:</b> <a href="https://paypal.me/stfulua">paypal.me/stfulua</a>
 </p>
 
 ---
@@ -75,9 +86,11 @@
 <h2 align="center" style="color: #2C2D72;">Get Involved</h2>
 
 <p align="center">
-  📢 <b>Contribute Ideas:</b> Join our <a href="https://discord.gg/T2NegRDG3Y">Discord server</a> to propose projects or collaborate on solutions.<br>
-  📧 <b>Contact Us:</b> Reach out at <a href="mailto:masyde@proton.me">masyde@proton.me</a> for inquiries.<br>
+  📢 <b>Contribute Ideas:</b> Join our <a href="https://discord.gg/T2NegRDG3Y">Discord server</a> to propose projects or collaborate.<br>
+  📧 <b>Contact Us:</b> Email us at <a href="mailto:masyde@proton.me">masyde@proton.me</a>.<br>
+  🐦 <b>Follow Us:</b> Connect on <a href="https://x.com/stfulua_dev">@stfulua_dev</a> via X.<br><br>
   <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/twitter/follow/stfulua_dev?style=flat-square&color=1DA1F2&logo=x&logoColor=white">
 </p>
 
 ---
@@ -87,7 +100,7 @@
 </p>
 
 <p align="center" style="color: #2C2D72;">
-  <b>Join us in building innovative, open-source software for the community and everyone!</b>
+  <b>Join us in building innovative, open-source software for the community.</b>
 </p>
 
 ---
@@ -95,14 +108,3 @@
 <p align="center" style="color: #333333;">
   Copyright © 2025 Masyde. All rights reserved.
 </p>
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
