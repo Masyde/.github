@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  Explore our repositories on <a href="https://github.com/masyde">GitHub</a> to discover ongoing projects, contribute code, or report issues. Your participation helps shape the future of Masyde’s open-source ecosystem. See our <a href="https://github.com/masyde/masyde/blob/main/CONTRIBUTING.md">contribution guidelines</a> for more details.
+  Explore our repositories on <a href="https://github.com/masyde">GitHub</a> to discover ongoing projects, contribute code, or report issues. Your participation helps shape the future of Masyde’s open-source ecosystem. See our <a href="https://github.com/Masyde/.github/blob/main/profile/CONTRIBUTING.md">contribution guidelines</a> for more details.
 </p>
 
 ---
