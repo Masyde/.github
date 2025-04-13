@@ -88,8 +88,7 @@
 
 <p align="center">
   📢 <b>Contribute Ideas:</b> Join our <a href="https://discord.gg/T2NegRDG3Y">Discord server</a> to propose projects or collaborate.<br>
-  📧 <b>Contact Us:</b> Email us at <a href="mailto:masyde@proton.me">masyde@proton.me</a>.<br>
-  🐦 <b>Follow Us:</b> Connect on <a href="https://x.com/stfulua_dev">@stfulua_dev</a> via X.<br><br>
+  📧 <b>Contact Us:</b> Email us at <a href="mailto:masyde@proton.me">masyde@proton.me</a>.<br> <br>
   <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord&logoColor=white">
   <img src="https://img.shields.io/twitter/follow/stfulua_dev?style=flat-square&color=1DA1F2&logo=x&logoColor=white">
 </p>
