@@ -62,8 +62,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/masyde?label=Total%20Stars&style=flat-square&color=2C2D72">
-  <img src="https://img.shields.io/github/issues/masyde?label=Open%20Issues&style=flat-square&color=00FF7F">
-  <img src="https://img.shields.io/github/contributors-anon/masyde?label=Contributors&style=flat-square&color=FF4500">
 </p>
 
 <p align="center">
