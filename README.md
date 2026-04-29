@@ -21,20 +21,7 @@
 
 **vProLabs** is an independent development collective founded by passionate Minecraft developers who believe server administration should be effortless and powerful. We specialize in creating **high‑performance plugins** for the **Paper** and **Spigot** ecosystems.
 
-From server management tools to gameplay enhancements, every vProLabs release is built with production servers in mind. We test extensively, document thoroughly, and support our community directly through **Discord** and **GitHub**.
-
----
-
-## 📦 What We Build
-
-Our portfolio spans critical server utilities and creative gameplay extensions:
-
-- **vChatUtils** – robust chat moderation  
-- **vSafeMobs** – intelligent mob management  
-- **vUnstable** – fun, chaotic gameplay twists  
-- …and more tools that **just work**.
-
-All projects are distributed via [Modrinth](https://modrinth.com/) with transparent changelogs, permissive licensing, and active maintenance. We prioritise **compatibility**, **performance**, and **zero‑bloat design** in every line of code.
+All our work is distributed via [Modrinth](https://modrinth.com/organization/vpro-labs) with transparent changelogs, permissive licensing, and active maintenance. We prioritise **compatibility**, **performance**, and **zero‑bloat design** in every line of code.
 
 ---
 
@@ -42,10 +29,9 @@ All projects are distributed via [Modrinth](https://modrinth.com/) with transpar
 
 | Feature | Description |
 |---------|-------------|
-| **Production‑Ready** | Battle‑tested on live servers before release |
-| **Active Support** | Direct dev access through our Discord community |
-| **Modern Codebase** | Built using the latest Paper & Spigot APIs |
-| **Open Development** | Transparent roadmaps, issue tracking on Discord, community feedback loops |
+| **Production‑Ready Testing** | We test every plugin before public release. Beta plugins may have bugs – if you encounter any, report them on our Discord. We genuinely appreciate your help. |
+| **Active Support** | Direct developer access through our Discord community. |
+| **Open Development** | Transparent roadmaps, issue tracking on Discord, and community feedback loops. |
 
 ---
 
@@ -66,23 +52,32 @@ All projects are distributed via [Modrinth](https://modrinth.com/) with transpar
 
 ## 👥 The Team
 
-vProLabs is driven by experienced Minecraft developers (former members of **Masyde**).  
-Join our Discord to meet the team and see what we’re building next.
+Meet the people behind vProLabs on [our website](https://vprolabs.xyz).  
+Join our Discord to see what we’re building next.
 
 ---
 
 ## 🌍 Get Involved
 
 - 💬 **Suggest features / report issues** → [Discord server](https://discord.gg/SNzUYWbc5Q)  
-- 📦 **Download plugins** → [Modrinth](https://modrinth.com/organization/vprolabs)  
+- 📦 **Browse all plugins** → [Modrinth](https://modrinth.com/organization/vpro-labs)  
 - 🌐 **Visit our website** → [vprolabs.xyz](https://vprolabs.xyz)  
-- 📧 **Business inquiries** → `contact@vprolabs.xyz`  
+- 📧 **Business inquiries** → `vprolabs@duck.com`
 
 ---
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vprolabs.vprolabs&color=2C8EFF&style=flat-square" alt="Visitor count">
 </p>
+
+<div align="center">
+  <a href="https://www.vprolabs.xyz/foliumhosting">
+    <img src="https://cdn.modrinth.com/data/cached_images/4a06749284b8ac33f9754f15990dee97e9d57892.png" alt="FoliumHosting">
+  </a>
+  <h2>
+    <a href="https://www.vprolabs.xyz/foliumhosting">Check out FoliumHosting!</a>
+  </h2>
+</div>
 
 <p align="center">
   <b>⚡ Build better servers, together. ⚡</b>
