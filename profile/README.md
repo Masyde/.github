@@ -35,21 +35,6 @@ All our work is distributed via [Modrinth](https://modrinth.com/organization/vpr
 
 ---
 
-## 🧰 Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,idea,git,github" alt="Tech stack">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Paper-1E9C50?style=flat-square&logo=paper&logoColor=white">
-  <img src="https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigot&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-</p>
-
----
-
 ## 👥 The Team
 
 Meet the people behind vProLabs on [our website](https://vprolabs.xyz).  
