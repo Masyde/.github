@@ -5,7 +5,7 @@
 <h1 align="center">vProLabs</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2C8EFF&size=22&center=true&vCenter=true&width=500&lines=Cutting-edge+Minecraft+server+software;Production-ready+plugins;Effortless+server+administration;Built+for+Paper+%26+Spigot">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2C8EFF&size=22&center=true&vCenter=true&width=550&lines=Minecraft+plugins+that+mostly+work;We+test+them%2C+but+bugs+happen;You+report+it%2C+we+fix+it+%28eventually%29;Built+for+Paper%2C+Spigot%2C+and+your+server">
 </p>
 
 <p align="center">
